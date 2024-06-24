@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">LogViewer</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Home</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Próximo</string>
+    <string name="previous">Anterior</string>
+
+    <string name="bem_vindo">
+        Bem vindo ao visualizador de Logs do Victão e do Will.
+        \nUm projeto em Kotlin para facilitar sua vida enquanto estudamos sobre a linguagem e os padrões atuais adotados.
+    </string>
+    <string name="selecao_log">
+        Em breve, você poderá selecionar seu arquivo de log aqui.
+    </string>
 </resources>
