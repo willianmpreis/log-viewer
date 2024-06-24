@@ -5,7 +5,7 @@ App para exibição de arquivos de texto dentro do Smartphone.
 
 **Tarefas**
 
-[ ] Incluir permissões de acesso aos arquivos
-[ ] Criar interface para visualização dos arquivos
-    [ ] Criar navegação para localizar os arquivos
-[ ] Criar interface para leitura dos arquivos de log
+-[ ] Incluir permissões de acesso aos arquivos
+-[ ] Criar interface para visualização dos arquivos
+-[ ] Criar navegação para localizar os arquivos
+-[ ] Criar interface para leitura dos arquivos de log
